@@ -1,9 +1,7 @@
 # Análise Crítica de Cases de UX: Netflix, Disney, Amazon e Mercado Livre
 
-## Introdução
-Olá! 👋 Vou compartilhar com vocês uma análise crítica dos cases apresentados, utilizando os 4 princípios fundamentais de UX: Usabilidade, Acessibilidade, Desejabilidade e Credibilidade.
 
-## Netflix 🎬
+## Netflix 
 
 ### Análise por Princípios:
 - **Usabilidade**: Excelente! A Netflix revolucionou a forma de consumir conteúdo, eliminando completamente o atrito do processo tradicional de locação.
@@ -16,7 +14,7 @@ Olá! 👋 Vou compartilhar com vocês uma análise crítica dos cases apresenta
 - Evolução constante com as mudanças tecnológicas
 - Personalização como diferencial
 
-## Disney 🏰
+## Disney 
 
 ### Análise por Princípios:
 - **Usabilidade**: Foco em experiências imersivas e processos simplificados
@@ -29,7 +27,7 @@ Olá! 👋 Vou compartilhar com vocês uma análise crítica dos cases apresenta
 - Engajamento total dos colaboradores
 - Experiências imersivas e personalizadas
 
-## Amazon 🛍️
+## Amazon 
 
 ### Análise por Princípios:
 - **Usabilidade**: Foco em processos simplificados e automação
@@ -42,7 +40,7 @@ Olá! 👋 Vou compartilhar com vocês uma análise crítica dos cases apresenta
 - Antecipação de necessidades
 - Simplificação sistemática de processos
 
-## Mercado Livre 💼
+## Mercado Livre 
 
 ### Análise por Princípios:
 - **Usabilidade**: Bem trabalhada, com foco na experiência do colaborador
@@ -63,7 +61,3 @@ Cada empresa apresentou uma abordagem única para UX, mas todas compartilham alg
 3. Personalização das experiências
 4. Valorização dos colaboradores
 
-A lição mais importante que podemos tirar desses cases é que uma boa experiência do usuário não é apenas sobre tecnologia ou interface, mas sobre criar uma cultura organizacional que priorize o bem-estar de todos os envolvidos - desde os colaboradores até os clientes finais.
-
----
-*Escrito com ❤️ para a comunidade de UX* 
